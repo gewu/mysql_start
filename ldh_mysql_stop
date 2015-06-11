@@ -1,0 +1,2 @@
+#!/bin/sh
+/home/map/.jumbo/bin/mysqladmin shutdown -P3306 -uroot -p='new\-passwd'

@@ -1,0 +1,2 @@
+#!/bin/sh
+/home/users/gewu/.jumbo/etc/mysql/mysqld_safe --defaults-file=/home/users/gewu/.jumbo/etc/mysql/my.cnf --socket=/home/users/gewu/.jumbo/etc/mysql/tmp/my.sock --pid-file=/home/users/gewu/.jumbo/etc/mysql/tmp/my.pid &
